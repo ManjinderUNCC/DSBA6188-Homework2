@@ -6,3 +6,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+/output/experiment-2/model-best/vocab/vectors
