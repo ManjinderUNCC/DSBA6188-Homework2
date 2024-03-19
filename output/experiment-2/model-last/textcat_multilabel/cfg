@@ -1,7 +1,0 @@
-{
-  "labels":[
-    "NOT_RELEVANT",
-    "RELEVANT"
-  ],
-  "threshold":0.5
-}
