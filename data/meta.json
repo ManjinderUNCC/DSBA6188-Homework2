@@ -1,0 +1,4 @@
+{
+    "view_id": "ner_manual",
+    "labels": ["RELEVANT", "NOT_RELEVANT"]
+}
