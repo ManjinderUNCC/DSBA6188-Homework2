@@ -8,3 +8,4 @@ env.bak/
 venv.bak/
 
 /output/experiment-2/model-best/vocab/vectors
+/output/experiment-2/model-last/vocab/vectors
